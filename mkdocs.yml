@@ -1,0 +1,32 @@
+site_name: Paige Blackstone's Online Portfolio - Econometrics, Data Science, Curiosities, Art, and More!
+site_url: https://blackpaigestone.github.io/
+site_author: Paige A. Blackstone
+site_description: >-
+  I'am Paige Blackstone, Master of Science in Applied Economics, data scientist, economist, artist, musician, and nature enthusiast. 
+  Welcome to my online portfolio! On this page I intend to share personal research projects, showcasing my creative approach
+  to problem solving and strong foundation of technical skills and expertise. In addition, I intend to share art projects
+  either started by me, or in collaboration with others in the realms of fiber arts and watercolor painting. I hope you enjoy 
+  getting to know me through this small glimpse into my spicy brain!
+
+#Repository
+repo_name: blackpaigestone/blackpaigestone.github.io
+repo_url: https://github.com/blackpaigestone/blackpaigestone.github.io.git
+
+#configuration
+theme:
+  name: material
+
+# Additional configuration
+extra:
+  analytics:
+    provider: google
+    property: G-MGSV76EYPN
+
+#page tree
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects:
+      - Project 1: projects/index.md
+      - Project 2: projects/index.md
+  - Contact: contact.md
