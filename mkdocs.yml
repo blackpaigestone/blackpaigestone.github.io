@@ -10,7 +10,7 @@ site_description: >-
 
 #Repository
 repo_name: blackpaigestone/blackpaigestone.github.io
-repo_url: https://github.com/blackpaigestone/blackpaigestone.github.io.git
+repo_url: https://github.com/blackpaigestone/blackpaigestone.github.io
 
 #configuration
 theme:
